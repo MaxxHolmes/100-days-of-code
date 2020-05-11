@@ -1,30 +1,16 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: May 10th, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Initial Goals:** I already can code in some capacity in Python, R, Matlab and C++ but not as strongly as I would like. I have undertaken a BSc Physics, MSc Data Science and am currently undergoing a PhD where I have learned scientific programming to the point where I can implement mathematical models, produce data analysis and visualisations and basic machine learning. I have little to no experience in html, css or js other than some brief skills I learned developing a personal website.
+My goals therefore are:
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+- To improve my scientific programming skills by exploring new methods and problem solving
+- To learn basic html/css/js skills through web development
 
-**Link to work:** [Calculator App](http://www.example.com)
+I will host or link everything I do both in this github repository, on twitter @MaxxSci, and on my website I build over the last few days below!
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Link to website:** [maxxholmes.github.io](maxxholmes.github.io) or [maxxholmes.co.uk](maxxholmes.co.uk)
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Day 0:** [maxxholmes.github.io](maxxholmes.github.io) or [maxxholmes.co.uk](maxxholmes.co.uk)
