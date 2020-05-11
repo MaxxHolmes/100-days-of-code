@@ -12,5 +12,15 @@ I will host or link everything I do both in this github repository, on twitter @
 
 **Link to website:** [maxxholmes.github.io](maxxholmes.github.io) or [maxxholmes.co.uk](maxxholmes.co.uk)
 
+### Day 1: May 11th, 2020
+
+**Aim:** Solving Project Euler problems in Python with detailed explanations, and producing a blog post on my website with those explanations and links to the solutions. This will improve my Python, HTML, and Jekyll skills - as well as flexing my mathematical muscles and markdown skills!
+
+**Thoughts:** The problems were a lot of fun and I managed to complete three in a reasonable amount of time. Thinking of efficient ways of solving the problems was interesting, and I'd like to do more of these problems in the future.
+
+**Links:** [My Project Euler GitHub Repository](https://github.com/MaxxHolmes/Project-Euler), [My Website](maxxholmes.github.io)
+
+
 **Link(s) to work**
 **Day 0:** [maxxholmes.github.io](maxxholmes.github.io) or [maxxholmes.co.uk](maxxholmes.co.uk)
+**Day 1:** [My Project Euler GitHub Repository](https://github.com/MaxxHolmes/Project-Euler)
